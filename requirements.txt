@@ -3,3 +3,4 @@ openai
 openai-whisper
 requests
 setuptools-rust
+
